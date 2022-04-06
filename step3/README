@@ -48,3 +48,4 @@ $ make
 $ cd test
 $ ./run_bl_dgemm.sh
 
+BE SURE TO CHANGE kernel_src in makefile
